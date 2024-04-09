@@ -1,0 +1,13 @@
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:210:9:BSP_I2C2_Init	16	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:258:9:BSP_I2C2_DeInit	16	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:286:9:BSP_I2C2_IsReady	24	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:307:9:BSP_I2C2_WriteReg	48	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:333:10:BSP_I2C2_ReadReg	48	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:361:9:BSP_I2C2_WriteReg16	48	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:386:10:BSP_I2C2_ReadReg16	48	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:411:9:BSP_I2C2_Send	32	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:436:9:BSP_I2C2_Recv	32	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:511:9:BSP_GetTick	8	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:517:26:MX_I2C2_Init	24	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:548:13:I2C2_MspInit	184	static
+../Drivers/BSP/B-L475E-IOT01A1/b_l475e_iot01a1_bus.c:588:13:I2C2_MspDeInit	16	static

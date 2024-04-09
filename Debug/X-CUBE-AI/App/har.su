@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/har.c:443:9:har_configure_activations	16	static
+../X-CUBE-AI/App/har.c:488:9:har_configure_weights	16	static
+../X-CUBE-AI/App/har.c:540:9:ai_har_get_info	160	static
+../X-CUBE-AI/App/har.c:586:9:ai_har_get_report	160	static
+../X-CUBE-AI/App/har.c:632:10:ai_har_get_error	16	static
+../X-CUBE-AI/App/har.c:638:10:ai_har_create	24	static
+../X-CUBE-AI/App/har.c:648:10:ai_har_create_and_init	96	static
+../X-CUBE-AI/App/har.c:682:12:ai_har_inputs_get	16	static
+../X-CUBE-AI/App/har.c:692:12:ai_har_outputs_get	16	static
+../X-CUBE-AI/App/har.c:702:11:ai_har_destroy	16	static
+../X-CUBE-AI/App/har.c:708:9:ai_har_init	24	static
+../X-CUBE-AI/App/har.c:725:8:ai_har_run	24	static
+../X-CUBE-AI/App/har.c:732:8:ai_har_forward	16	static
